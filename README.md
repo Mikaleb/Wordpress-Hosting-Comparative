@@ -104,7 +104,7 @@ For I needed, need and will need to host a wordpress website, here lies a compre
         <td>44.38€</td>
     </tr>
     <tr>
-        <td>DreamHost</td>
+        <td style="color:green">DreamHost</td>
         <td>50 GB</td>
         <td></td>
         <td></td>
