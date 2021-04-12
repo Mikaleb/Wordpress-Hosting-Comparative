@@ -3,6 +3,7 @@
 For I needed, need and will need to host a wordpress website, here lies a comprehensive comparative of the hosting services, to date of this commit.
 
 ## Comparison Table (most basic offer, based on French Offers)
+
 <table>
     <tr>
         <td></td>
@@ -104,7 +105,7 @@ For I needed, need and will need to host a wordpress website, here lies a compre
         <td>44.38€</td>
     </tr>
     <tr>
-        <td style="color:green">DreamHost</td>
+        <td>DreamHost ✅</td>
         <td>50 GB</td>
         <td></td>
         <td></td>
