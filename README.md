@@ -50,7 +50,7 @@ For I needed, need and will need to host a wordpress website, here lies a compre
         <td>3.37€ / mo (80.85€ / 2yr)</td>
     </tr>
     <tr>
-        <td>Hostinger</td>
+        <td>Hostinger ✅</td>
         <td>30 GB</td>
         <td></td>
         <td></td>
