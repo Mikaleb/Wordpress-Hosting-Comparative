@@ -106,13 +106,13 @@ For I needed, need and will need to host a wordpress website, here lies a compre
     </tr>
     <tr>
         <td>DreamHost ✅</td>
-        <td>50 GB</td>
+        <td>unlimited</td>
         <td></td>
         <td></td>
         <td></td>
         <td></td>
         <td>4.95$</td>
-        <td>2.95$ / mo (35.4$)</td>
+        <td>2.95$ / mo (35.4$) -normal price (at renewal): $155.88</td>
         <td>Ntg for 2 year, but 3y = 93.24$</td>
     </tr>
     <tr>
