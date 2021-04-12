@@ -14,7 +14,7 @@ For I needed, need and will need to host a wordpress website, here lies a compre
 | HostGator  |           |     |         |            | 14,95€/mo | 14,95€                   | 3.95$ / mo (50.53€)                                                | 3.45$ / mo (88.27 $)             |
 | SiteGround | 10 GB     |     |         |            |           | 12.99 €                  | 5.99$ / mo (Subtotal:EUR71.88 ;VAT at 20%:EUR14.38 ; TOTAL:86.26€) | 258€ / 2y                        |
 | Namecheap  | 10 GB     |     |         |            |           | 3.26 €                   | €19.25 (renewal at 25.13€)                                         | 44.38€                           |
-| DreamHost  | 50 GB     |     |         |            |           | 4.95$                    | 2.95$ / mo (35.4$)                                                 | Ntg for 2 year, but 3y = 93.24$  |
+| <span style="color:green">DreamHost</span>  | 50 GB     |     |         |            |           | 4.95$                    | 2.95$ / mo (35.4$)                                                 | Ntg for 2 year, but 3y = 93.24$  |
 | A2 Hosting | 100 GB    |     |         |            |           | 10.99$                   | €70.56 (€90.75 EUR -  (promo) €-20.19 EUR)                         | 3y = 107.64                      |
 | Kinsta     | 10 GB     |     |         |            | 30$/mo    |                          | 300$                                                               |                                  |
 | Ex2        | 50 GB     |     |         |            |           | 7.99€                    | 5.49€ / mo (65.88€)                                                | 3 yrs = 4.49€ / yr (161.64€)     |
